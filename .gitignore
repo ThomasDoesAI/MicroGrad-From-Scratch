@@ -1,0 +1,23 @@
+# Ignore IPython Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python byte code
+*.pyc
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore environment-specific files
+.env
+
+# Ignore Jupyter Notebook kernel connection file
+*.json
+
+# Ignore log files
+*.log
+
+# Ignore virtual environment
+venv/
+*.venv*/
+.venv-micrograd/
